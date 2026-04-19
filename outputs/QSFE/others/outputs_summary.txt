@@ -1,0 +1,37 @@
+QSFE Complete
+=========================================================
+Project: QSFE
+Number of global states: 13671
+Number of trajectory points: 135
+
+Trajectory set:
+- physical_noise_dominant
+- attack_dominant
+- mixed_escalation
+- phase_sensitive
+- curvature_probe
+
+Number of collapsing trajectories: 4
+Mean action-based anticipation (%): 45.08212375859435
+Maximum final predictive action: 0.585430
+Maximum stationarity residual: 24611.420823
+Mean maximum action acceleration: 36.877231
+
+Generated figures:
+  * fig_action_accumulation.png
+  * fig_action_comparison_bar.png
+  * fig_action_early_warning_markers.png
+  * fig_instability_and_action_acceleration.png
+  * fig_lagrangian_2d_landscape.png
+  * fig_lagrangian_profiles.png
+  * fig_normalized_action.png
+  * fig_stationarity_residuals.png
+
+Generated tables:
+  * table_action_early_warning.csv
+  * table_all_trajectories.csv
+  * table_lagrangian_2d_map.csv
+  * table_stationarity_diagnostics.csv
+  * table_summary_statistics.csv
+  * table_trajectory_ranking.csv
+  * table_trajectory_summary.csv

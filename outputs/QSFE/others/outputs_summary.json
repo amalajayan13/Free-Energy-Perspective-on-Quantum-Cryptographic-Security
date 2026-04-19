@@ -1,0 +1,36 @@
+{
+  "project_name": "QSFE",
+  "n_total_states": 13671,
+  "n_total_trajectory_points": 135,
+  "trajectory_names": [
+    "physical_noise_dominant",
+    "attack_dominant",
+    "mixed_escalation",
+    "phase_sensitive",
+    "curvature_probe"
+  ],
+  "n_collapsing_trajectories": 4,
+  "mean_action_anticipation_pct": 45.08212375859435,
+  "max_final_predictive_action": 0.5854299656133547,
+  "max_stationarity_residual": 24611.42082323965,
+  "mean_max_action_acceleration": 36.87723118914973,
+  "figure_files": [
+    "fig_action_accumulation.png",
+    "fig_action_comparison_bar.png",
+    "fig_action_early_warning_markers.png",
+    "fig_instability_and_action_acceleration.png",
+    "fig_lagrangian_2d_landscape.png",
+    "fig_lagrangian_profiles.png",
+    "fig_normalized_action.png",
+    "fig_stationarity_residuals.png"
+  ],
+  "table_files": [
+    "table_action_early_warning.csv",
+    "table_all_trajectories.csv",
+    "table_lagrangian_2d_map.csv",
+    "table_stationarity_diagnostics.csv",
+    "table_summary_statistics.csv",
+    "table_trajectory_ranking.csv",
+    "table_trajectory_summary.csv"
+  ]
+}
