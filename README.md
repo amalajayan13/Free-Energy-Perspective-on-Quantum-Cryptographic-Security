@@ -7,3 +7,4 @@ This repository contains the Jupyter notebook used for the analysis in the prepa
 Contains all outputs, results, and data used.
 
 ## Zenodo
+Amal Ajayan. amalajayan13/Free-Energy-Perspective-on-Quantum-Cryptographic-Security: V3. v3, Zenodo, 20 Apr. 2026, https://doi.org/10.5281/zenodo.19660397.
